@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick_Application_NG_REST", "Quick Application NG REST\Quick_Application_NG_REST\Quick_Application_NG_REST.csproj", "{20E69C6A-1A9F-47D8-9EE3-3D8B00523911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "Quick Application NG REST\DAL\DAL.csproj", "{5A302550-ECD6-492C-B8FC-3136F4AC1D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E69C6A-1A9F-47D8-9EE3-3D8B00523911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E69C6A-1A9F-47D8-9EE3-3D8B00523911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E69C6A-1A9F-47D8-9EE3-3D8B00523911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E69C6A-1A9F-47D8-9EE3-3D8B00523911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A302550-ECD6-492C-B8FC-3136F4AC1D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A302550-ECD6-492C-B8FC-3136F4AC1D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A302550-ECD6-492C-B8FC-3136F4AC1D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A302550-ECD6-492C-B8FC-3136F4AC1D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07A5AEF-3089-4266-81BD-F08348CBB5CE}
+	EndGlobalSection
+EndGlobal

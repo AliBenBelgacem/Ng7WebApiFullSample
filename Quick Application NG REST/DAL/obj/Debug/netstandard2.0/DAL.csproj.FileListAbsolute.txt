@@ -1,0 +1,9 @@
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\abenbelgacem\source\repos\Quick Application NG REST\Quick Application NG REST\DAL\obj\Debug\netstandard2.0\DAL.pdb
